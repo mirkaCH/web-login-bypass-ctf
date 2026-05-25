@@ -1,5 +1,10 @@
 # Web Login Bypass CTF
 
+## Project Context
+
+This project was created to demonstrate my ability to design and document beginner-friendly cybersecurity CTF-style challenges.
+
+The focus is on clear scenario design, reproducible setup, investigation flow, learning objectives, and basic security documentation.
 ## Overview
 
 This is a beginner-friendly web security CTF challenge focused on weak login logic. The challenge runs inside a Docker container and provides a simple Flask web application with an intentionally vulnerable login form.
